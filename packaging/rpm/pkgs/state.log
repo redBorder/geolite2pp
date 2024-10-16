@@ -1,0 +1,730 @@
+2024-10-10 11:26:19,582 - Mock Version: 5.6
+2024-10-10 11:26:19,585 - Start(bootstrap): chroot init
+2024-10-10 11:26:19,593 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:26:19,593 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:26:19,744 - Finish(bootstrap): chroot init
+2024-10-10 11:26:19,746 - Start: chroot init
+2024-10-10 11:26:19,760 - Start: cleaning package manager metadata
+2024-10-10 11:26:19,763 - Finish: cleaning package manager metadata
+2024-10-10 11:26:19,957 - Start: installing minimal buildroot with dnf
+2024-10-10 11:26:24,200 - Start: clean chroot
+2024-10-10 11:26:24,239 - Finish: clean chroot
+2024-10-10 11:28:17,320 - Mock Version: 5.6
+2024-10-10 11:28:17,325 - Start(bootstrap): chroot init
+2024-10-10 11:28:17,334 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:28:17,334 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:28:17,484 - Finish(bootstrap): chroot init
+2024-10-10 11:28:17,485 - Start: chroot init
+2024-10-10 11:28:17,493 - Start: cleaning package manager metadata
+2024-10-10 11:28:17,496 - Finish: cleaning package manager metadata
+2024-10-10 11:28:17,662 - Start: installing minimal buildroot with dnf
+2024-10-10 11:28:21,418 - Start: clean chroot
+2024-10-10 11:28:21,459 - Finish: clean chroot
+2024-10-10 11:30:34,855 - Mock Version: 5.6
+2024-10-10 11:30:34,858 - Start(bootstrap): chroot init
+2024-10-10 11:30:34,866 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:30:34,866 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:30:35,018 - Finish(bootstrap): chroot init
+2024-10-10 11:30:35,019 - Start: chroot init
+2024-10-10 11:30:35,027 - Start: cleaning package manager metadata
+2024-10-10 11:30:35,030 - Finish: cleaning package manager metadata
+2024-10-10 11:30:35,200 - Start: installing minimal buildroot with dnf
+2024-10-10 11:30:48,626 - Finish: installing minimal buildroot with dnf
+2024-10-10 11:30:48,736 - Start: creating root cache
+2024-10-10 11:30:49,725 - Finish: creating root cache
+2024-10-10 11:30:49,726 - Finish: chroot init
+2024-10-10 11:30:49,826 - Start: buildsrpm
+2024-10-10 11:30:49,828 - Start: rpmbuild -bs
+2024-10-10 11:30:49,881 - Finish: rpmbuild -bs
+2024-10-10 11:30:49,882 - Finish: buildsrpm
+2024-10-10 11:30:49,882 - Start: clean chroot
+2024-10-10 11:30:50,910 - Finish: clean chroot
+2024-10-10 11:32:02,495 - Mock Version: 5.6
+2024-10-10 11:32:02,498 - Start(bootstrap): chroot init
+2024-10-10 11:32:02,506 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:32:02,506 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:32:02,657 - Finish(bootstrap): chroot init
+2024-10-10 11:32:02,659 - Start: chroot init
+2024-10-10 11:32:02,667 - Start: unpacking root cache
+2024-10-10 11:32:03,567 - Finish: unpacking root cache
+2024-10-10 11:32:03,568 - Start: cleaning package manager metadata
+2024-10-10 11:32:03,571 - Finish: cleaning package manager metadata
+2024-10-10 11:32:03,790 - Start: dnf update
+2024-10-10 11:32:08,240 - Finish: dnf update
+2024-10-10 11:32:08,398 - Finish: chroot init
+2024-10-10 11:32:08,400 - Start: buildsrpm
+2024-10-10 11:32:08,402 - Start: rpmbuild -bs
+2024-10-10 11:32:08,484 - Finish: rpmbuild -bs
+2024-10-10 11:32:08,486 - Finish: buildsrpm
+2024-10-10 11:32:08,487 - Start: clean chroot
+2024-10-10 11:32:09,468 - Finish: clean chroot
+2024-10-10 11:32:09,468 - Finish: run
+2024-10-10 11:32:09,834 - Mock Version: 5.6
+2024-10-10 11:32:09,837 - Start(bootstrap): chroot init
+2024-10-10 11:32:09,846 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:32:09,846 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:32:10,013 - Finish(bootstrap): chroot init
+2024-10-10 11:32:10,014 - Start: chroot init
+2024-10-10 11:32:10,022 - Start: unpacking root cache
+2024-10-10 11:32:10,926 - Finish: unpacking root cache
+2024-10-10 11:32:10,928 - Start: cleaning package manager metadata
+2024-10-10 11:32:10,930 - Finish: cleaning package manager metadata
+2024-10-10 11:32:11,139 - Start: dnf update
+2024-10-10 11:32:14,969 - Finish: dnf update
+2024-10-10 11:32:15,128 - Finish: chroot init
+2024-10-10 11:32:15,129 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:32:15,129 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:32:21,941 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:32:21,941 - Start: Outputting list of installed packages
+2024-10-10 11:32:22,062 - Finish: Outputting list of installed packages
+2024-10-10 11:32:22,062 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:32:23,116 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:32:23,116 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:32:23,117 - Start: clean chroot
+2024-10-10 11:32:24,367 - Finish: clean chroot
+2024-10-10 11:35:22,488 - Mock Version: 5.6
+2024-10-10 11:35:22,491 - Start(bootstrap): chroot init
+2024-10-10 11:35:22,499 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:35:22,499 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:35:22,651 - Finish(bootstrap): chroot init
+2024-10-10 11:35:22,652 - Start: chroot init
+2024-10-10 11:35:22,660 - Start: unpacking root cache
+2024-10-10 11:35:23,562 - Finish: unpacking root cache
+2024-10-10 11:35:23,564 - Start: cleaning package manager metadata
+2024-10-10 11:35:23,566 - Finish: cleaning package manager metadata
+2024-10-10 11:35:23,773 - Start: dnf update
+2024-10-10 11:35:27,228 - Finish: dnf update
+2024-10-10 11:35:27,386 - Finish: chroot init
+2024-10-10 11:35:27,388 - Start: buildsrpm
+2024-10-10 11:35:27,390 - Start: rpmbuild -bs
+2024-10-10 11:35:27,469 - Finish: rpmbuild -bs
+2024-10-10 11:35:27,471 - Finish: buildsrpm
+2024-10-10 11:35:27,472 - Start: clean chroot
+2024-10-10 11:35:28,448 - Finish: clean chroot
+2024-10-10 11:35:28,449 - Finish: run
+2024-10-10 11:35:28,809 - Mock Version: 5.6
+2024-10-10 11:35:28,813 - Start(bootstrap): chroot init
+2024-10-10 11:35:28,820 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:35:28,821 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:35:28,971 - Finish(bootstrap): chroot init
+2024-10-10 11:35:28,972 - Start: chroot init
+2024-10-10 11:35:28,980 - Start: unpacking root cache
+2024-10-10 11:35:29,884 - Finish: unpacking root cache
+2024-10-10 11:35:29,885 - Start: cleaning package manager metadata
+2024-10-10 11:35:29,888 - Finish: cleaning package manager metadata
+2024-10-10 11:35:30,084 - Start: dnf update
+2024-10-10 11:35:33,956 - Finish: dnf update
+2024-10-10 11:35:34,121 - Finish: chroot init
+2024-10-10 11:35:34,122 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:35:34,122 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:35:39,937 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:35:39,938 - Start: Outputting list of installed packages
+2024-10-10 11:35:40,053 - Finish: Outputting list of installed packages
+2024-10-10 11:35:40,053 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:35:41,095 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:35:41,095 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:35:41,095 - Start: clean chroot
+2024-10-10 11:35:42,354 - Finish: clean chroot
+2024-10-10 11:37:39,167 - Mock Version: 5.6
+2024-10-10 11:37:39,170 - Start(bootstrap): chroot init
+2024-10-10 11:37:39,179 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:37:39,180 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:37:39,347 - Finish(bootstrap): chroot init
+2024-10-10 11:37:39,349 - Start: chroot init
+2024-10-10 11:37:39,356 - Start: unpacking root cache
+2024-10-10 11:37:40,297 - Finish: unpacking root cache
+2024-10-10 11:37:40,299 - Start: cleaning package manager metadata
+2024-10-10 11:37:40,301 - Finish: cleaning package manager metadata
+2024-10-10 11:37:40,510 - Start: dnf update
+2024-10-10 11:37:44,974 - Finish: dnf update
+2024-10-10 11:37:45,133 - Finish: chroot init
+2024-10-10 11:37:45,135 - Start: buildsrpm
+2024-10-10 11:37:45,137 - Start: rpmbuild -bs
+2024-10-10 11:37:45,217 - Finish: rpmbuild -bs
+2024-10-10 11:37:45,219 - Finish: buildsrpm
+2024-10-10 11:37:45,220 - Start: clean chroot
+2024-10-10 11:37:46,240 - Finish: clean chroot
+2024-10-10 11:37:46,240 - Finish: run
+2024-10-10 11:37:46,627 - Mock Version: 5.6
+2024-10-10 11:37:46,631 - Start(bootstrap): chroot init
+2024-10-10 11:37:46,639 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:37:46,640 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:37:46,795 - Finish(bootstrap): chroot init
+2024-10-10 11:37:46,796 - Start: chroot init
+2024-10-10 11:37:46,804 - Start: unpacking root cache
+2024-10-10 11:37:47,719 - Finish: unpacking root cache
+2024-10-10 11:37:47,720 - Start: cleaning package manager metadata
+2024-10-10 11:37:47,723 - Finish: cleaning package manager metadata
+2024-10-10 11:37:47,924 - Start: dnf update
+2024-10-10 11:37:51,627 - Finish: dnf update
+2024-10-10 11:37:51,787 - Finish: chroot init
+2024-10-10 11:37:51,787 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:37:51,788 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:37:57,702 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:37:57,703 - Start: Outputting list of installed packages
+2024-10-10 11:37:57,824 - Finish: Outputting list of installed packages
+2024-10-10 11:37:57,824 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:37:58,870 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:37:58,870 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:37:58,871 - Start: clean chroot
+2024-10-10 11:38:00,128 - Finish: clean chroot
+2024-10-10 11:41:46,439 - Mock Version: 5.6
+2024-10-10 11:41:46,442 - Start(bootstrap): chroot init
+2024-10-10 11:41:46,450 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:41:46,450 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:41:46,603 - Finish(bootstrap): chroot init
+2024-10-10 11:41:46,604 - Start: chroot init
+2024-10-10 11:41:46,612 - Start: unpacking root cache
+2024-10-10 11:41:47,515 - Finish: unpacking root cache
+2024-10-10 11:41:47,516 - Start: cleaning package manager metadata
+2024-10-10 11:41:47,519 - Finish: cleaning package manager metadata
+2024-10-10 11:41:47,718 - Start: dnf update
+2024-10-10 11:41:57,060 - Finish: dnf update
+2024-10-10 11:41:57,216 - Finish: chroot init
+2024-10-10 11:41:57,217 - Start: buildsrpm
+2024-10-10 11:41:57,220 - Start: rpmbuild -bs
+2024-10-10 11:41:57,303 - Finish: rpmbuild -bs
+2024-10-10 11:41:57,305 - Finish: buildsrpm
+2024-10-10 11:41:57,306 - Start: clean chroot
+2024-10-10 11:41:58,335 - Finish: clean chroot
+2024-10-10 11:41:58,336 - Finish: run
+2024-10-10 11:41:58,696 - Mock Version: 5.6
+2024-10-10 11:41:58,699 - Start(bootstrap): chroot init
+2024-10-10 11:41:58,707 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:41:58,707 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:41:58,860 - Finish(bootstrap): chroot init
+2024-10-10 11:41:58,861 - Start: chroot init
+2024-10-10 11:41:58,869 - Start: unpacking root cache
+2024-10-10 11:41:59,790 - Finish: unpacking root cache
+2024-10-10 11:41:59,792 - Start: cleaning package manager metadata
+2024-10-10 11:41:59,794 - Finish: cleaning package manager metadata
+2024-10-10 11:41:59,988 - Start: dnf update
+2024-10-10 11:42:03,584 - Finish: dnf update
+2024-10-10 11:42:03,745 - Finish: chroot init
+2024-10-10 11:42:03,745 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:42:03,746 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:42:09,588 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:42:09,588 - Start: Outputting list of installed packages
+2024-10-10 11:42:09,704 - Finish: Outputting list of installed packages
+2024-10-10 11:42:09,704 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:42:10,729 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:42:10,729 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:42:10,729 - Start: clean chroot
+2024-10-10 11:42:12,026 - Finish: clean chroot
+2024-10-10 11:43:59,190 - Mock Version: 5.6
+2024-10-10 11:43:59,193 - Start(bootstrap): chroot init
+2024-10-10 11:43:59,201 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:43:59,201 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:43:59,354 - Finish(bootstrap): chroot init
+2024-10-10 11:43:59,356 - Start: chroot init
+2024-10-10 11:43:59,364 - Start: unpacking root cache
+2024-10-10 11:44:00,265 - Finish: unpacking root cache
+2024-10-10 11:44:00,267 - Start: cleaning package manager metadata
+2024-10-10 11:44:00,270 - Finish: cleaning package manager metadata
+2024-10-10 11:44:00,489 - Start: dnf update
+2024-10-10 11:44:04,561 - Finish: dnf update
+2024-10-10 11:44:04,718 - Finish: chroot init
+2024-10-10 11:44:04,720 - Start: buildsrpm
+2024-10-10 11:44:04,722 - Start: rpmbuild -bs
+2024-10-10 11:44:04,799 - Finish: rpmbuild -bs
+2024-10-10 11:44:04,800 - Finish: buildsrpm
+2024-10-10 11:44:04,802 - Start: clean chroot
+2024-10-10 11:44:05,823 - Finish: clean chroot
+2024-10-10 11:44:05,824 - Finish: run
+2024-10-10 11:44:06,185 - Mock Version: 5.6
+2024-10-10 11:44:06,188 - Start(bootstrap): chroot init
+2024-10-10 11:44:06,196 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:44:06,196 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:44:06,346 - Finish(bootstrap): chroot init
+2024-10-10 11:44:06,348 - Start: chroot init
+2024-10-10 11:44:06,355 - Start: unpacking root cache
+2024-10-10 11:44:07,262 - Finish: unpacking root cache
+2024-10-10 11:44:07,264 - Start: cleaning package manager metadata
+2024-10-10 11:44:07,267 - Finish: cleaning package manager metadata
+2024-10-10 11:44:07,468 - Start: dnf update
+2024-10-10 11:44:11,107 - Finish: dnf update
+2024-10-10 11:44:11,265 - Finish: chroot init
+2024-10-10 11:44:11,266 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:44:11,266 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:44:17,214 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:44:17,215 - Start: Outputting list of installed packages
+2024-10-10 11:44:17,331 - Finish: Outputting list of installed packages
+2024-10-10 11:44:17,331 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:44:18,379 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:44:18,379 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:44:18,379 - Start: clean chroot
+2024-10-10 11:44:19,632 - Finish: clean chroot
+2024-10-10 11:44:47,500 - Mock Version: 5.6
+2024-10-10 11:44:47,504 - Start(bootstrap): chroot init
+2024-10-10 11:44:47,512 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:44:47,512 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:44:47,662 - Finish(bootstrap): chroot init
+2024-10-10 11:44:47,664 - Start: chroot init
+2024-10-10 11:44:47,671 - Start: unpacking root cache
+2024-10-10 11:44:48,571 - Finish: unpacking root cache
+2024-10-10 11:44:48,572 - Start: cleaning package manager metadata
+2024-10-10 11:44:48,575 - Finish: cleaning package manager metadata
+2024-10-10 11:44:48,791 - Start: dnf update
+2024-10-10 11:44:52,372 - Finish: dnf update
+2024-10-10 11:44:52,537 - Finish: chroot init
+2024-10-10 11:44:52,539 - Start: buildsrpm
+2024-10-10 11:44:52,542 - Start: rpmbuild -bs
+2024-10-10 11:44:52,664 - Finish: rpmbuild -bs
+2024-10-10 11:44:52,666 - Finish: buildsrpm
+2024-10-10 11:44:52,667 - Start: clean chroot
+2024-10-10 11:44:53,653 - Finish: clean chroot
+2024-10-10 11:44:53,653 - Finish: run
+2024-10-10 11:44:54,007 - Mock Version: 5.6
+2024-10-10 11:44:54,011 - Start(bootstrap): chroot init
+2024-10-10 11:44:54,019 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:44:54,019 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:44:54,169 - Finish(bootstrap): chroot init
+2024-10-10 11:44:54,170 - Start: chroot init
+2024-10-10 11:44:54,177 - Start: unpacking root cache
+2024-10-10 11:44:55,080 - Finish: unpacking root cache
+2024-10-10 11:44:55,081 - Start: cleaning package manager metadata
+2024-10-10 11:44:55,084 - Finish: cleaning package manager metadata
+2024-10-10 11:44:55,280 - Start: dnf update
+2024-10-10 11:45:02,236 - Finish: dnf update
+2024-10-10 11:45:02,396 - Finish: chroot init
+2024-10-10 11:45:02,397 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:45:02,397 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:45:08,125 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:45:08,125 - Start: Outputting list of installed packages
+2024-10-10 11:45:08,241 - Finish: Outputting list of installed packages
+2024-10-10 11:45:08,241 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:45:10,255 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:45:10,255 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:45:10,256 - Start: clean chroot
+2024-10-10 11:45:11,517 - Finish: clean chroot
+2024-10-10 11:46:27,885 - Mock Version: 5.6
+2024-10-10 11:46:27,888 - Start(bootstrap): chroot init
+2024-10-10 11:46:27,896 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:46:27,896 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:46:28,048 - Finish(bootstrap): chroot init
+2024-10-10 11:46:28,050 - Start: chroot init
+2024-10-10 11:46:28,057 - Start: unpacking root cache
+2024-10-10 11:46:28,951 - Finish: unpacking root cache
+2024-10-10 11:46:28,952 - Start: cleaning package manager metadata
+2024-10-10 11:46:28,955 - Finish: cleaning package manager metadata
+2024-10-10 11:46:29,159 - Start: dnf update
+2024-10-10 11:46:33,340 - Finish: dnf update
+2024-10-10 11:46:33,497 - Finish: chroot init
+2024-10-10 11:46:33,499 - Start: buildsrpm
+2024-10-10 11:46:33,501 - Start: rpmbuild -bs
+2024-10-10 11:46:33,626 - Finish: rpmbuild -bs
+2024-10-10 11:46:33,628 - Finish: buildsrpm
+2024-10-10 11:46:33,629 - Start: clean chroot
+2024-10-10 11:46:34,581 - Finish: clean chroot
+2024-10-10 11:46:34,581 - Finish: run
+2024-10-10 11:46:34,936 - Mock Version: 5.6
+2024-10-10 11:46:34,940 - Start(bootstrap): chroot init
+2024-10-10 11:46:34,948 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:46:34,948 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:46:35,101 - Finish(bootstrap): chroot init
+2024-10-10 11:46:35,103 - Start: chroot init
+2024-10-10 11:46:35,111 - Start: unpacking root cache
+2024-10-10 11:46:36,003 - Finish: unpacking root cache
+2024-10-10 11:46:36,005 - Start: cleaning package manager metadata
+2024-10-10 11:46:36,007 - Finish: cleaning package manager metadata
+2024-10-10 11:46:36,210 - Start: dnf update
+2024-10-10 11:46:39,723 - Finish: dnf update
+2024-10-10 11:46:39,881 - Finish: chroot init
+2024-10-10 11:46:39,882 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:46:39,882 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:46:47,328 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:46:47,328 - Start: Outputting list of installed packages
+2024-10-10 11:46:47,440 - Finish: Outputting list of installed packages
+2024-10-10 11:46:47,440 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:46:47,796 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:46:47,797 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:46:47,797 - Start: clean chroot
+2024-10-10 11:46:49,063 - Finish: clean chroot
+2024-10-10 11:47:52,032 - Mock Version: 5.6
+2024-10-10 11:47:52,035 - Start(bootstrap): chroot init
+2024-10-10 11:47:52,043 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:47:52,043 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:47:52,198 - Finish(bootstrap): chroot init
+2024-10-10 11:47:52,199 - Start: chroot init
+2024-10-10 11:47:52,207 - Start: unpacking root cache
+2024-10-10 11:47:53,113 - Finish: unpacking root cache
+2024-10-10 11:47:53,114 - Start: cleaning package manager metadata
+2024-10-10 11:47:53,117 - Finish: cleaning package manager metadata
+2024-10-10 11:47:53,314 - Start: dnf update
+2024-10-10 11:47:57,418 - Finish: dnf update
+2024-10-10 11:47:57,576 - Finish: chroot init
+2024-10-10 11:47:57,578 - Start: buildsrpm
+2024-10-10 11:47:57,580 - Start: rpmbuild -bs
+2024-10-10 11:47:57,711 - Finish: rpmbuild -bs
+2024-10-10 11:47:57,713 - Finish: buildsrpm
+2024-10-10 11:47:57,714 - Start: clean chroot
+2024-10-10 11:47:58,691 - Finish: clean chroot
+2024-10-10 11:47:58,692 - Finish: run
+2024-10-10 11:47:59,047 - Mock Version: 5.6
+2024-10-10 11:47:59,051 - Start(bootstrap): chroot init
+2024-10-10 11:47:59,058 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:47:59,059 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:47:59,209 - Finish(bootstrap): chroot init
+2024-10-10 11:47:59,211 - Start: chroot init
+2024-10-10 11:47:59,218 - Start: unpacking root cache
+2024-10-10 11:48:00,110 - Finish: unpacking root cache
+2024-10-10 11:48:00,111 - Start: cleaning package manager metadata
+2024-10-10 11:48:00,114 - Finish: cleaning package manager metadata
+2024-10-10 11:48:00,302 - Start: dnf update
+2024-10-10 11:48:03,779 - Finish: dnf update
+2024-10-10 11:48:03,938 - Finish: chroot init
+2024-10-10 11:48:03,939 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:03,939 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:09,624 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:09,624 - Start: Outputting list of installed packages
+2024-10-10 11:48:09,734 - Finish: Outputting list of installed packages
+2024-10-10 11:48:09,734 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:10,089 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:10,089 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:10,090 - Start: clean chroot
+2024-10-10 11:48:11,339 - Finish: clean chroot
+2024-10-10 11:48:32,860 - Mock Version: 5.6
+2024-10-10 11:48:32,864 - Start(bootstrap): chroot init
+2024-10-10 11:48:32,871 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:48:32,872 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:48:33,023 - Finish(bootstrap): chroot init
+2024-10-10 11:48:33,024 - Start: chroot init
+2024-10-10 11:48:33,031 - Start: unpacking root cache
+2024-10-10 11:48:33,936 - Finish: unpacking root cache
+2024-10-10 11:48:33,937 - Start: cleaning package manager metadata
+2024-10-10 11:48:33,939 - Finish: cleaning package manager metadata
+2024-10-10 11:48:34,161 - Start: dnf update
+2024-10-10 11:48:38,630 - Finish: dnf update
+2024-10-10 11:48:38,787 - Finish: chroot init
+2024-10-10 11:48:38,788 - Start: buildsrpm
+2024-10-10 11:48:38,791 - Start: rpmbuild -bs
+2024-10-10 11:48:38,922 - Finish: rpmbuild -bs
+2024-10-10 11:48:38,924 - Finish: buildsrpm
+2024-10-10 11:48:38,926 - Start: clean chroot
+2024-10-10 11:48:39,907 - Finish: clean chroot
+2024-10-10 11:48:39,907 - Finish: run
+2024-10-10 11:48:40,261 - Mock Version: 5.6
+2024-10-10 11:48:40,264 - Start(bootstrap): chroot init
+2024-10-10 11:48:40,271 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:48:40,272 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:48:40,422 - Finish(bootstrap): chroot init
+2024-10-10 11:48:40,424 - Start: chroot init
+2024-10-10 11:48:40,431 - Start: unpacking root cache
+2024-10-10 11:48:41,352 - Finish: unpacking root cache
+2024-10-10 11:48:41,354 - Start: cleaning package manager metadata
+2024-10-10 11:48:41,357 - Finish: cleaning package manager metadata
+2024-10-10 11:48:41,556 - Start: dnf update
+2024-10-10 11:48:45,237 - Finish: dnf update
+2024-10-10 11:48:45,396 - Finish: chroot init
+2024-10-10 11:48:45,397 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:45,397 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:51,701 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:51,701 - Start: Outputting list of installed packages
+2024-10-10 11:48:51,817 - Finish: Outputting list of installed packages
+2024-10-10 11:48:51,817 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:53,570 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:53,570 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:48:53,571 - Start: clean chroot
+2024-10-10 11:48:54,818 - Finish: clean chroot
+2024-10-10 11:50:38,203 - Mock Version: 5.6
+2024-10-10 11:50:38,206 - Start(bootstrap): chroot init
+2024-10-10 11:50:38,214 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:50:38,214 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:50:38,365 - Finish(bootstrap): chroot init
+2024-10-10 11:50:38,366 - Start: chroot init
+2024-10-10 11:50:38,374 - Start: unpacking root cache
+2024-10-10 11:50:39,276 - Finish: unpacking root cache
+2024-10-10 11:50:39,277 - Start: cleaning package manager metadata
+2024-10-10 11:50:39,280 - Finish: cleaning package manager metadata
+2024-10-10 11:50:39,500 - Start: dnf update
+2024-10-10 11:50:43,724 - Finish: dnf update
+2024-10-10 11:50:43,882 - Finish: chroot init
+2024-10-10 11:50:43,883 - Start: buildsrpm
+2024-10-10 11:50:43,886 - Start: rpmbuild -bs
+2024-10-10 11:50:44,009 - Finish: rpmbuild -bs
+2024-10-10 11:50:44,011 - Finish: buildsrpm
+2024-10-10 11:50:44,013 - Start: clean chroot
+2024-10-10 11:50:44,999 - Finish: clean chroot
+2024-10-10 11:50:45,000 - Finish: run
+2024-10-10 11:50:45,352 - Mock Version: 5.6
+2024-10-10 11:50:45,355 - Start(bootstrap): chroot init
+2024-10-10 11:50:45,363 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:50:45,363 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:50:45,513 - Finish(bootstrap): chroot init
+2024-10-10 11:50:45,515 - Start: chroot init
+2024-10-10 11:50:45,522 - Start: unpacking root cache
+2024-10-10 11:50:46,434 - Finish: unpacking root cache
+2024-10-10 11:50:46,435 - Start: cleaning package manager metadata
+2024-10-10 11:50:46,438 - Finish: cleaning package manager metadata
+2024-10-10 11:50:46,634 - Start: dnf update
+2024-10-10 11:50:50,631 - Finish: dnf update
+2024-10-10 11:50:50,789 - Finish: chroot init
+2024-10-10 11:50:50,789 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:50:50,790 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:50:56,361 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:50:56,361 - Start: Outputting list of installed packages
+2024-10-10 11:50:56,472 - Finish: Outputting list of installed packages
+2024-10-10 11:50:56,472 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:50:58,297 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:50:58,297 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:50:58,297 - Start: clean chroot
+2024-10-10 11:50:59,561 - Finish: clean chroot
+2024-10-10 11:53:53,357 - Mock Version: 5.6
+2024-10-10 11:53:53,361 - Start(bootstrap): chroot init
+2024-10-10 11:53:53,368 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:53:53,369 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:53:53,520 - Finish(bootstrap): chroot init
+2024-10-10 11:53:53,521 - Start: chroot init
+2024-10-10 11:53:53,529 - Start: unpacking root cache
+2024-10-10 11:53:54,432 - Finish: unpacking root cache
+2024-10-10 11:53:54,434 - Start: cleaning package manager metadata
+2024-10-10 11:53:54,436 - Finish: cleaning package manager metadata
+2024-10-10 11:53:54,643 - Start: dnf update
+2024-10-10 11:53:58,611 - Finish: dnf update
+2024-10-10 11:53:58,773 - Finish: chroot init
+2024-10-10 11:53:58,774 - Start: buildsrpm
+2024-10-10 11:53:58,777 - Start: rpmbuild -bs
+2024-10-10 11:53:58,907 - Finish: rpmbuild -bs
+2024-10-10 11:53:58,909 - Finish: buildsrpm
+2024-10-10 11:53:58,910 - Start: clean chroot
+2024-10-10 11:53:59,879 - Finish: clean chroot
+2024-10-10 11:53:59,880 - Finish: run
+2024-10-10 11:54:00,234 - Mock Version: 5.6
+2024-10-10 11:54:00,238 - Start(bootstrap): chroot init
+2024-10-10 11:54:00,246 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:54:00,246 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:54:00,395 - Finish(bootstrap): chroot init
+2024-10-10 11:54:00,397 - Start: chroot init
+2024-10-10 11:54:00,404 - Start: unpacking root cache
+2024-10-10 11:54:01,308 - Finish: unpacking root cache
+2024-10-10 11:54:01,310 - Start: cleaning package manager metadata
+2024-10-10 11:54:01,312 - Finish: cleaning package manager metadata
+2024-10-10 11:54:01,527 - Start: dnf update
+2024-10-10 11:54:05,703 - Finish: dnf update
+2024-10-10 11:54:05,866 - Finish: chroot init
+2024-10-10 11:54:05,867 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:54:05,868 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:54:11,516 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:54:11,516 - Start: Outputting list of installed packages
+2024-10-10 11:54:11,626 - Finish: Outputting list of installed packages
+2024-10-10 11:54:11,626 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:54:13,434 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:54:13,434 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:54:13,434 - Start: clean chroot
+2024-10-10 11:54:14,651 - Finish: clean chroot
+2024-10-10 11:55:28,155 - Mock Version: 5.6
+2024-10-10 11:55:28,158 - Start(bootstrap): chroot init
+2024-10-10 11:55:28,166 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:55:28,166 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:55:28,318 - Finish(bootstrap): chroot init
+2024-10-10 11:55:28,319 - Start: chroot init
+2024-10-10 11:55:28,327 - Start: unpacking root cache
+2024-10-10 11:55:29,228 - Finish: unpacking root cache
+2024-10-10 11:55:29,230 - Start: cleaning package manager metadata
+2024-10-10 11:55:29,233 - Finish: cleaning package manager metadata
+2024-10-10 11:55:29,434 - Start: dnf update
+2024-10-10 11:55:33,272 - Finish: dnf update
+2024-10-10 11:55:33,433 - Finish: chroot init
+2024-10-10 11:55:33,434 - Start: buildsrpm
+2024-10-10 11:55:33,437 - Start: rpmbuild -bs
+2024-10-10 11:55:33,571 - Finish: rpmbuild -bs
+2024-10-10 11:55:33,573 - Finish: buildsrpm
+2024-10-10 11:55:33,575 - Start: clean chroot
+2024-10-10 11:55:34,522 - Finish: clean chroot
+2024-10-10 11:55:34,523 - Finish: run
+2024-10-10 11:55:34,876 - Mock Version: 5.6
+2024-10-10 11:55:34,879 - Start(bootstrap): chroot init
+2024-10-10 11:55:34,887 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:55:34,888 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:55:35,038 - Finish(bootstrap): chroot init
+2024-10-10 11:55:35,039 - Start: chroot init
+2024-10-10 11:55:35,046 - Start: unpacking root cache
+2024-10-10 11:55:35,948 - Finish: unpacking root cache
+2024-10-10 11:55:35,950 - Start: cleaning package manager metadata
+2024-10-10 11:55:35,952 - Finish: cleaning package manager metadata
+2024-10-10 11:55:36,152 - Start: dnf update
+2024-10-10 11:55:39,592 - Finish: dnf update
+2024-10-10 11:55:39,751 - Finish: chroot init
+2024-10-10 11:55:39,752 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:55:39,753 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:55:45,226 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:55:45,226 - Start: Outputting list of installed packages
+2024-10-10 11:55:45,348 - Finish: Outputting list of installed packages
+2024-10-10 11:55:45,348 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:55:47,169 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:55:47,169 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:55:47,170 - Start: clean chroot
+2024-10-10 11:55:48,410 - Finish: clean chroot
+2024-10-10 11:56:10,409 - Mock Version: 5.6
+2024-10-10 11:56:10,413 - Start(bootstrap): chroot init
+2024-10-10 11:56:10,421 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:10,421 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:10,569 - Finish(bootstrap): chroot init
+2024-10-10 11:56:10,571 - Start: chroot init
+2024-10-10 11:56:10,579 - Start: unpacking root cache
+2024-10-10 11:56:11,480 - Finish: unpacking root cache
+2024-10-10 11:56:11,482 - Start: cleaning package manager metadata
+2024-10-10 11:56:11,484 - Finish: cleaning package manager metadata
+2024-10-10 11:56:11,705 - Start: dnf update
+2024-10-10 11:56:15,528 - Finish: dnf update
+2024-10-10 11:56:15,691 - Finish: chroot init
+2024-10-10 11:56:15,692 - Start: buildsrpm
+2024-10-10 11:56:15,695 - Start: rpmbuild -bs
+2024-10-10 11:56:15,833 - Finish: rpmbuild -bs
+2024-10-10 11:56:15,835 - Finish: buildsrpm
+2024-10-10 11:56:15,836 - Start: clean chroot
+2024-10-10 11:56:16,807 - Finish: clean chroot
+2024-10-10 11:56:16,808 - Finish: run
+2024-10-10 11:56:17,163 - Mock Version: 5.6
+2024-10-10 11:56:17,166 - Start(bootstrap): chroot init
+2024-10-10 11:56:17,174 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:17,174 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:17,325 - Finish(bootstrap): chroot init
+2024-10-10 11:56:17,327 - Start: chroot init
+2024-10-10 11:56:17,334 - Start: unpacking root cache
+2024-10-10 11:56:18,235 - Finish: unpacking root cache
+2024-10-10 11:56:18,237 - Start: cleaning package manager metadata
+2024-10-10 11:56:18,241 - Finish: cleaning package manager metadata
+2024-10-10 11:56:18,440 - Start: dnf update
+2024-10-10 11:56:22,043 - Finish: dnf update
+2024-10-10 11:56:22,202 - Finish: chroot init
+2024-10-10 11:56:22,203 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:56:22,203 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:56:27,869 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:56:27,870 - Start: Outputting list of installed packages
+2024-10-10 11:56:27,985 - Finish: Outputting list of installed packages
+2024-10-10 11:56:27,985 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:56:29,816 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:56:29,816 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:56:29,817 - Start: clean chroot
+2024-10-10 11:56:31,076 - Finish: clean chroot
+2024-10-10 11:56:49,994 - Mock Version: 5.6
+2024-10-10 11:56:49,998 - Start(bootstrap): chroot init
+2024-10-10 11:56:50,005 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:50,006 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:50,156 - Finish(bootstrap): chroot init
+2024-10-10 11:56:50,158 - Start: chroot init
+2024-10-10 11:56:50,166 - Start: unpacking root cache
+2024-10-10 11:56:51,069 - Finish: unpacking root cache
+2024-10-10 11:56:51,070 - Start: cleaning package manager metadata
+2024-10-10 11:56:51,073 - Finish: cleaning package manager metadata
+2024-10-10 11:56:51,271 - Start: dnf update
+2024-10-10 11:56:55,110 - Finish: dnf update
+2024-10-10 11:56:55,283 - Finish: chroot init
+2024-10-10 11:56:55,284 - Start: buildsrpm
+2024-10-10 11:56:55,287 - Start: rpmbuild -bs
+2024-10-10 11:56:55,420 - Finish: rpmbuild -bs
+2024-10-10 11:56:55,422 - Finish: buildsrpm
+2024-10-10 11:56:55,423 - Start: clean chroot
+2024-10-10 11:56:56,389 - Finish: clean chroot
+2024-10-10 11:56:56,389 - Finish: run
+2024-10-10 11:56:56,745 - Mock Version: 5.6
+2024-10-10 11:56:56,749 - Start(bootstrap): chroot init
+2024-10-10 11:56:56,756 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:56,757 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:56:56,904 - Finish(bootstrap): chroot init
+2024-10-10 11:56:56,906 - Start: chroot init
+2024-10-10 11:56:56,914 - Start: unpacking root cache
+2024-10-10 11:56:57,813 - Finish: unpacking root cache
+2024-10-10 11:56:57,815 - Start: cleaning package manager metadata
+2024-10-10 11:56:57,817 - Finish: cleaning package manager metadata
+2024-10-10 11:56:58,015 - Start: dnf update
+2024-10-10 11:57:01,802 - Finish: dnf update
+2024-10-10 11:57:01,962 - Finish: chroot init
+2024-10-10 11:57:01,962 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:57:01,963 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:57:07,144 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:57:07,144 - Start: Outputting list of installed packages
+2024-10-10 11:57:07,255 - Finish: Outputting list of installed packages
+2024-10-10 11:57:07,255 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:57:09,072 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:57:09,073 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:57:09,073 - Start: clean chroot
+2024-10-10 11:57:10,316 - Finish: clean chroot
+2024-10-10 11:58:36,056 - Mock Version: 5.6
+2024-10-10 11:58:36,059 - Start(bootstrap): chroot init
+2024-10-10 11:58:36,067 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:58:36,068 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:58:36,218 - Finish(bootstrap): chroot init
+2024-10-10 11:58:36,220 - Start: chroot init
+2024-10-10 11:58:36,227 - Start: unpacking root cache
+2024-10-10 11:58:37,130 - Finish: unpacking root cache
+2024-10-10 11:58:37,131 - Start: cleaning package manager metadata
+2024-10-10 11:58:37,134 - Finish: cleaning package manager metadata
+2024-10-10 11:58:37,344 - Start: dnf update
+2024-10-10 11:58:41,178 - Finish: dnf update
+2024-10-10 11:58:41,340 - Finish: chroot init
+2024-10-10 11:58:41,342 - Start: buildsrpm
+2024-10-10 11:58:41,344 - Start: rpmbuild -bs
+2024-10-10 11:58:41,480 - Finish: rpmbuild -bs
+2024-10-10 11:58:41,483 - Finish: buildsrpm
+2024-10-10 11:58:41,484 - Start: clean chroot
+2024-10-10 11:58:42,460 - Finish: clean chroot
+2024-10-10 11:58:42,460 - Finish: run
+2024-10-10 11:58:42,815 - Mock Version: 5.6
+2024-10-10 11:58:42,819 - Start(bootstrap): chroot init
+2024-10-10 11:58:42,827 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:58:42,827 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:58:42,976 - Finish(bootstrap): chroot init
+2024-10-10 11:58:42,977 - Start: chroot init
+2024-10-10 11:58:42,984 - Start: unpacking root cache
+2024-10-10 11:58:43,882 - Finish: unpacking root cache
+2024-10-10 11:58:43,883 - Start: cleaning package manager metadata
+2024-10-10 11:58:43,886 - Finish: cleaning package manager metadata
+2024-10-10 11:58:44,101 - Start: dnf update
+2024-10-10 11:58:47,685 - Finish: dnf update
+2024-10-10 11:58:47,844 - Finish: chroot init
+2024-10-10 11:58:47,844 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:58:47,845 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:58:54,533 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:58:54,533 - Start: Outputting list of installed packages
+2024-10-10 11:58:54,643 - Finish: Outputting list of installed packages
+2024-10-10 11:58:54,644 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:58:57,187 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:58:57,187 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:58:57,188 - Start: clean chroot
+2024-10-10 11:58:58,430 - Finish: clean chroot
+2024-10-10 11:59:46,558 - Mock Version: 5.6
+2024-10-10 11:59:46,562 - Start(bootstrap): chroot init
+2024-10-10 11:59:46,570 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:59:46,570 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:59:46,726 - Finish(bootstrap): chroot init
+2024-10-10 11:59:46,727 - Start: chroot init
+2024-10-10 11:59:46,735 - Start: unpacking root cache
+2024-10-10 11:59:47,637 - Finish: unpacking root cache
+2024-10-10 11:59:47,639 - Start: cleaning package manager metadata
+2024-10-10 11:59:47,641 - Finish: cleaning package manager metadata
+2024-10-10 11:59:47,841 - Start: dnf update
+2024-10-10 11:59:52,013 - Finish: dnf update
+2024-10-10 11:59:52,174 - Finish: chroot init
+2024-10-10 11:59:52,176 - Start: buildsrpm
+2024-10-10 11:59:52,179 - Start: rpmbuild -bs
+2024-10-10 11:59:52,308 - Finish: rpmbuild -bs
+2024-10-10 11:59:52,310 - Finish: buildsrpm
+2024-10-10 11:59:52,312 - Start: clean chroot
+2024-10-10 11:59:53,280 - Finish: clean chroot
+2024-10-10 11:59:53,281 - Finish: run
+2024-10-10 11:59:53,634 - Mock Version: 5.6
+2024-10-10 11:59:53,637 - Start(bootstrap): chroot init
+2024-10-10 11:59:53,645 - Start(bootstrap): cleaning package manager metadata
+2024-10-10 11:59:53,645 - Finish(bootstrap): cleaning package manager metadata
+2024-10-10 11:59:53,793 - Finish(bootstrap): chroot init
+2024-10-10 11:59:53,794 - Start: chroot init
+2024-10-10 11:59:53,801 - Start: unpacking root cache
+2024-10-10 11:59:54,704 - Finish: unpacking root cache
+2024-10-10 11:59:54,705 - Start: cleaning package manager metadata
+2024-10-10 11:59:54,708 - Finish: cleaning package manager metadata
+2024-10-10 11:59:54,914 - Start: dnf update
+2024-10-10 11:59:58,742 - Finish: dnf update
+2024-10-10 11:59:58,901 - Finish: chroot init
+2024-10-10 11:59:58,902 - Start: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 11:59:58,902 - Start: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 12:00:04,419 - Finish: build setup for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 12:00:04,420 - Start: Outputting list of installed packages
+2024-10-10 12:00:04,533 - Finish: Outputting list of installed packages
+2024-10-10 12:00:04,534 - Start: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 12:00:06,490 - Finish: rpmbuild libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 12:00:06,493 - Finish: build phase for libgeolite-1.0.0-1.el9.rb.src.rpm
+2024-10-10 12:00:06,495 - Start: clean chroot
+2024-10-10 12:00:07,710 - Finish: clean chroot
+2024-10-10 12:00:07,711 - Finish: run
